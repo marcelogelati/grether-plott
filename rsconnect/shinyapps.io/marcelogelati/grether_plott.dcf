@@ -1,0 +1,12 @@
+name: grether_plott
+title: grether_plott
+username:
+account: marcelogelati
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1840528
+bundleId: 2815850
+url: https://marcelogelati.shinyapps.io/grether_plott/
+when: 1582227834.35205
+asMultiple: FALSE
+asStatic: FALSE
